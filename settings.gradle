@@ -1,0 +1,8 @@
+rootProject.name = 'com-study'
+include 'lambda'
+include 'stream'
+include 'jdk10'
+include 'webflux'
+include 'webflux-routerfunction'
+include 'webfluxclient'
+
